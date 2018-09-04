@@ -1,0 +1,2 @@
+# HJPopView
+show tips text
